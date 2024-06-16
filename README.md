@@ -1,0 +1,4 @@
+- 👋 Hola, soy Axel Marroquin!
+- 📚 Actualmente estudio Ingeniería en Sistemas en Guatemala, y tengo conocimientos básicos en C#, MySQL, HTML y CSS.
+- 📷 Me gusta la fotografía, la música y demás temas relacionados al arte.
+- 📫 Contacto: axelmarroquinn@gmail.com
